@@ -11,8 +11,8 @@ var mix = require('laravel-mix');
  |
  */
 
-// mix.js('resources/assets/js/app.js', 'public/js')
-//    .sass('resources/assets/sass/app.scss', 'public/css');
+mix.js('resources/assets/js/app.js', 'public/js')
+   .sass('resources/assets/sass/app.scss', 'public/css');
 mix.styles([
     'public/dashboard-style/bower_components/bootstrap/dist/css/bootstrap.min.css',
     'public/dashboard-style/bower_components//font-awesome/css/font-awesome.css',

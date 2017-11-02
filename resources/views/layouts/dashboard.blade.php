@@ -15,6 +15,5 @@
     </div>
 
     @include('dashboard.partials.js-scripts')
-    <script src="/js/dashboard.js"></script>
 </body>
 </html>

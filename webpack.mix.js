@@ -19,10 +19,8 @@ mix.styles([
     'resources/assets/css/ionicons.css',
     'resources/assets/css/AdminLTE.css',
     'resources/assets/css/_all-skins.css',
-    'resources/assets/css/morris.css',
     'resources/assets/css/jquery-jvectormap.css',
     'resources/assets/css/bootstrap-datepicker.css',
-    'resources/assets/css/daterangepicker.css'
 ], 'public/css/dashboard.css');
 
 // mix.js([
